@@ -49,7 +49,9 @@ public class MathApp {
 
             double value1 = -3.8;
 
-            double absolutegit =
+            //hi
+
+            double absolute =
 
     }
 
