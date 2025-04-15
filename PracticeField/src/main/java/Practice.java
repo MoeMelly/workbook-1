@@ -80,6 +80,21 @@ public class Practice {
 
         System.out.println(myOtherValue);
 
+        int firstValue = 100;
+        int aValue = firstValue;
+
+        firstValue = 90;
+        aValue = 45;
+        System.out.println(firstValue);
+
+
+
+
+        int z = 8;
+        int x = ++z;
+        System.out.println("Prefix: z =" + z + ",x=" + x);
+
+        int firstPop
 
 
 
